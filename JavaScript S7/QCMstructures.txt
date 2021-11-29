@@ -1,0 +1,14 @@
+Question: 
+let i = 0
+while (i < 15)
+    if(i % 2 === 0) console.log('Pair');
+    else console.log('Impair');
+    i++;
+}
+
+Combien de fois sera affiché 'Pair' et 'Impair'
+Réponses:
+- 8 et 7 false
+- 7 et 8 false
+- Il y aura une erreur true
+- Aucune des réponses ci-dessus false

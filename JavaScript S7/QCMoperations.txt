@@ -1,0 +1,7 @@
+Question: 5 * 0.5 + 2 - !!!'false'
+
+Réponses:
+- 3.5 F
+- 2.5 F
+- 4.5 T
+- 5.5 F
